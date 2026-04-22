@@ -4,11 +4,13 @@ const loveStage = document.getElementById('loveStage');
 
 // Tomi-র জন্য তোমার দেওয়া নতুন লাইনগুলো এখানে
 const textArray = [
-    'Tomi love u Bacchaa', 
+    'Tomi love u Bacchaa',
+    'Dina Toke Chay Tomi', 
+    'Nayelar Kache Ja Tomi', 
+    'Tomi love u', 
     'I Love U Tomiii', 
     'Missuuu youuuu', 
-    'My Cute Tomi 🐱', 
-    'Come back soon', 
+    'My Cute Tomi 🐱',  
     'Love u my catto', 
     'Always in my heart', 
     'Tomi Baccha ❤️',
